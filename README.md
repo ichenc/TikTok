@@ -1,5 +1,5 @@
 # TikTok下载，安卓、iOS抖音国际版下载
-<a href="https://github.com/ichenc/TikTok--/releases/" target="_blank">tiktok下载 点击前往>></a><br>
+<a href="https://github.com/ichenc/TikTok/releases/" target="_blank">tiktok下载 点击前往>></a><br>
 ### 使用步骤：<br>
 1、开启翻墙<br>
 2、下载tiktok直接安装使用，支持换区<br>
